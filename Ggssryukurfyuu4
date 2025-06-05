@@ -136,6 +136,7 @@ https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3
 #http://tv.bdiptv.store/live/restream/restreamzz/87.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="INDIABANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
+https://toffee.xenolive.xyz/live.php?id=zee_bangla&e=.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -160,8 +161,6 @@ http://opplex.tv:8080/live/Amjadsc/nwl1234/245898.ts
 #http://starshare.org/live/shiva123/shiva123/23218.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
-#https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
-#https://vood.yflix.top/api/Colors_Bangla_HD_voot_MOB/mono.m3u8
 http://opplex.tv:8080/live/Amjadsc/nwl1234/245895.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -188,7 +187,7 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
-https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
+https://toffee.xenolive.xyz/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
 http://opplex.tv:8080/live/Amjadsc/nwl1234/245900.ts
