@@ -411,7 +411,8 @@ http://starshare.org/live/kumar11/kumar11/36927.ts
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/4.ts
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/4.ts
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/353547.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png" group-title="ISLAMICS", AL SUNNAH TV
