@@ -148,7 +148,7 @@ https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://stvlive.net:8080/starjalsha/index.m3u8
+#http://stvlive.net:8080/starjalsha/index.m3u8
 #http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
 #http://opplex.ch/live/3525532727/9752528282/388693.ts
@@ -157,7 +157,6 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/3c65b579-5825
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
-http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
 http://opplex.tv:8080/live/Amjadsc/nwl1234/245898.ts
 #http://starshare.org/live/shiva123/shiva123/23218.ts
 /198.ts
