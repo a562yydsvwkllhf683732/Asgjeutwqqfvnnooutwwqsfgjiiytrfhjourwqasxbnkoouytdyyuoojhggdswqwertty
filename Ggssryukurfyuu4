@@ -307,9 +307,10 @@ http://opplex.tv:8080/live/Amjadsc/nwl1234/150483.ts
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
+https://live-test.tsports.com/live-02/index.m3u8?hdntl=Expires=1749592049~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=AXWJlB7Q3yzjm2gSnmfrgO44c-hvKkr0oIyuG9-xAotpIkIUzJlLdzfVx1XWjvCqszP4RhtI7qvnn1w2W2a40M6uhDQE&hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749557013300~hmac=58aa4952e1ecb196253fca5077b37f7952cfd02583c105a724ebcde68e315ca6
+http://38.96.178.201/live/TSports/index.m3u8
 #http://starshare.org/live/shiva123/shiva123/18452.ts
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/167590.ts
-http://38.96.178.201/live/TSports/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/k20C9S8X/images-2-removebg-preview-1.png",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
