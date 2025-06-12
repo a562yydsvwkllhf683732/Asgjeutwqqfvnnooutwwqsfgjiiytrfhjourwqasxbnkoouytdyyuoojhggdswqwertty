@@ -244,24 +244,18 @@ https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/tPYMLSvs/images-removebg-preview.png ", STAR GOLD 2
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/106133.ts
 #EXTM3U
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/C5zgdgJR/images-1-removebg-preview.png", STAR SELECT
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/221257.ts
-#EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/221258.ts
-#EXTM3U
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/9m4DH5YG/images-removebg-preview.png", STAR GOLD ROMANCE
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66186.ts
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/G4mktxJt/images-1-removebg-preview-1.png", ZEE BOLLYWOOD
 https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK
 http://starshare.org/live/lauren87/lauren87/205.ts
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/150482.ts
 http://38.76.152.22:8000/play/a00w/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC 
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/34011.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/242.m3u8
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
