@@ -208,7 +208,7 @@ http://opplex.tv:8080/live/Amjadsc/nwl1234/221255.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66167.ts
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", & TV 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", ZEE & TV 
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="INDIA", ZEE TV HD
