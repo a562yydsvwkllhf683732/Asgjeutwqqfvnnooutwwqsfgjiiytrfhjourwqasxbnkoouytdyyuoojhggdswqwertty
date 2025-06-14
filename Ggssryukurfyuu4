@@ -161,9 +161,9 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245898.ts
 /198.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
+http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245895.ts
 http://stvlive.net:8080/colorsbangla/index.m3u8
 http://starshare.org/live/lauren87/lauren87/183.ts
-http://opplex.tv:8080/live/Amjadsc/nwl1234/245895.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -189,6 +189,7 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
+https://padmaonline.duckdns.org:8088/restream3/index.m3u8
 http://starshare.org/live/lauren87/lauren87/271038.ts
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTM3U
