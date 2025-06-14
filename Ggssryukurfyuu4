@@ -345,13 +345,13 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/348210.ts
 #http://opplex.tv:8080/live/Amjadsc/nwl1234167593.ts
 #http://starshare.org/live/kumar11/kumar11/423842.ts
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png",SON 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png",SONY SPORTS 2 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY 5 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY SPORTS 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
@@ -361,12 +361,6 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167585.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/LD0frjGn/images-removebg-preview.png", TNT SPORTS 2
-https://off1.gogohaalmal.com:1686/hls/bbtsp2.m3u8?md5=312AYWzCB3fnvQSxxB9kuQ&expires=1749876933
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chbTtGh4/Willow-is-on-DIRECTV-removebg-preview.png", WILLOW SPORTS 
-https://off1.gogohaalmal.com:1686/hls/willowextra.m3u8?md5=O8Xqvz0EC_Y8Jky0aDR19w&expires=1749876932
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/YTf26NdM/images-1-removebg-preview.png", ESPN 2
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/238492.ts
