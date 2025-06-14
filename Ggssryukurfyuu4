@@ -171,6 +171,7 @@ http://starshare.org/live/lauren87/lauren87/183.ts
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
+https://re.fredflix.fun/AOIT/live.php?id=sonyaath&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyaath&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=7e00fee81848&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
@@ -216,10 +217,12 @@ https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB HD
+https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=b7167fe646a4&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/WWrHZSxw/Sony-HD.png",SONY TV
+https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=243771d9592c&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
@@ -242,6 +245,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co.com/CFm6Qh1/Sony-MAX2.png",SONY MAX 2
+https://re.fredflix.fun/AOIT/live.php?id=sonymax_2&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonymax_2&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=420510be5c17&e=.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
@@ -266,6 +270,7 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/34011.ts
 http://starshare.org/live/kumar11/kumar11/19834.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo-title="KIDS"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
+https://re.fredflix.fun/AOIT/live.php?id=sonyyay&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyyay&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=57bd9c2493c1&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
@@ -295,6 +300,7 @@ https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
+https://re.fredflix.fun/AOIT/live.php?id=cartoon_network_sd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=cartoon_network_sd&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=8be5ec5d5d7c&e=.m3u8
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/150478.ts
 #https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -356,6 +362,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
+https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=258468998307&e=.m3u8
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167585.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -391,6 +398,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
+https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8
 #https://newsprotalhub.xyz/tipyop/live.m3u8?id=52d1df2fdb80&e=.m3u8
 http://starshare.org/live/kumar11/kumar11/9391.ts
 #EXTM3U
