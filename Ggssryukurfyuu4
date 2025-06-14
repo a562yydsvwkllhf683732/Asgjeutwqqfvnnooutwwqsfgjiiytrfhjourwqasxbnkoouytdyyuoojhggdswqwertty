@@ -208,6 +208,9 @@ http://opplex.tv:8080/live/Amjadsc/nwl1234/221255.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66167.ts
 #EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", & TV 
+
+#EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="INDIA", ZEE TV HD
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
@@ -246,9 +249,6 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/106133.ts
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/221258.ts
-#EXTM3U
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/G4mktxJt/images-1-removebg-preview-1.png", ZEE BOLLYWOOD
-https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK
 http://starshare.org/live/lauren87/lauren87/205.ts
@@ -361,6 +361,15 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167585.ts
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/LD0frjGn/images-removebg-preview.png", TNT SPORTS 2
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chbTtGh4/Willow-is-on-DIRECTV-removebg-preview.png", WILLOW SPORTS 
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/YTf26NdM/images-1-removebg-preview.png", ESPN 2
+
+#EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jZqHHq04/images-1-removebg-preview.png", BEIN SPORTS 
 #http://opplex.ch/live/3525532727/9752528282/167584.ts
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -417,9 +426,6 @@ http://starshare.org/live/kumar11/kumar11/98878.ts
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/103689.ts
 http://starshare.org/live/kumar11/kumar11/36927.ts
-#EXTM3U
-#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="DISCOVERY", ZEE ZEST HD
-https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
