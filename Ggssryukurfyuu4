@@ -446,9 +446,6 @@ http://starshare.org/live/kumar11/kumar11/9384.ts
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png", HBO
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/347720.ts
-#EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/kgTfK8jT/Star-Movies-Select-HD-removebg-preview.png",STAR MOVIES SELECT HD
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66315.ts
 #EXTM3U
