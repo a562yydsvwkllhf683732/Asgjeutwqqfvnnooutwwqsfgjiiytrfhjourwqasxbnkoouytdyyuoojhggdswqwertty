@@ -457,15 +457,15 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/347720.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/kgTfK8jT/Star-Movies-Select-HD-removebg-preview.png",STAR MOVIES SELECT HD
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66315.ts
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",1
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png", HOB 1
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",2
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png",HOB 2
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png",HOB 3
 https://padmaonline.duckdns.org:8088/sami_tv/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",4
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png",HOB 4
 https://padmaonline.duckdns.org:8088/ltv/index.m3u8
 #EXTM3U
