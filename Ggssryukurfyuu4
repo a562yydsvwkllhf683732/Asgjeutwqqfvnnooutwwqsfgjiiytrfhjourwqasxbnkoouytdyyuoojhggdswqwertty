@@ -11,32 +11,26 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/G4h3R75d/images-3-removebg-preview.png",INDEPNDENT HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamkak/84.m3u8
 #http://38.96.178.201/live/Independent/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/m5DL5jXT/images-9-removebg-preview.png",JAMUNA HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamkak/83.m3u8
 #http://38.96.178.201/live/JamunaTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/RpHd59Jm/unnamed.png",CHANNEL 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamkak/73.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/NgN6LyPB/images-10-removebg-preview.png",EKHONE TV
 https://ayna-three.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/85.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/W46MM8Xw/images-1-removebg-preview.png",DESH TV
 http://starshare.org/live/kumar11/kumar11/394.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/vC4KvzHD/Ekattor-TV-logo-svg.png",EKATTOR
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/57.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/LdTzhLWN/images-4-removebg-preview-1.png",DBC
 https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/58.m3u8
 #http://opplex.ch:8080/live/323232/323232/245914.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/1JMtP4y0/news24-channel-logo-png-seeklogo-362149-removebg-preview.png",NEWS 24
@@ -44,9 +38,9 @@ https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3
 #http://starshare.org/live/kumar11/kumar11/3810.ts
 #EXTM3U 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/NdXSMgqd/images-11-removebg-preview.png",MAASRANGA HD
-https://ayna-three.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
+#https://ayna-three.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
 #http://starshare.org/live/kumar11/kumar11/1036.ts
-#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5KpJKw6/Duronto-TV-Logo.png",DURONTO TV
 https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
@@ -115,7 +109,7 @@ http://tv.bdiptv.store/live/restream/restreamzz/55.m3u8
 http://38.96.178.201/live/BanglaTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/zHNBT2WZ/images-2.jpg",S TV
-#http://tv.bdiptv.store/live/restream/restreamzz/155.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/R4NTp4K9/Movie-Bangla1731598654.png",MOVIE TV
@@ -132,7 +126,6 @@ https://mytvbangla.com/0.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/cmVPxXV/images-5-removebg-preview-1.png",GTV HD
 https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/87.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="INDIABANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -463,4 +456,16 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/347720.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/kgTfK8jT/Star-Movies-Select-HD-removebg-preview.png",STAR MOVIES SELECT HD
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66315.ts
+#EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",1
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",2
+https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",3
+https://padmaonline.duckdns.org:8088/sami_tv/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/wNWryNCV/padma-cable-vision-removebg-preview.png",4
+https://padmaonline.duckdns.org:8088/ltv/index.m3u8
 #EXTM3U
