@@ -358,10 +358,6 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167585.ts
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jZqHHq04/images-1-removebg-preview.png", BEIN SPORTS 
-#http://opplex.ch/live/3525532727/9752528282/167584.ts
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
@@ -383,32 +379,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
-https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8
-#https://newsprotalhub.xyz/tipyop/live.m3u8?id=52d1df2fdb80&e=.m3u8
-http://starshare.org/live/kumar11/kumar11/9391.ts
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/qLMzdwdn/logo.png",SONY BBC HD
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
-http://starshare.org/live/kumar11/kumar11/7343.ts
-#http://opplex.tv:8080/live/mother/mother/245967.ts
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
-http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/nNMrfXtd/images-1-removebg-preview.png",LOVE NATURE
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
-http://starshare.org/live/kumar11/kumar11/20622.ts
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/8nDZSqx9/images-removebg-preview-1.png",HISTORY HD
-http://starshare.org/live/kumar11/kumar11/180.ts
-#EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/Z6XHygCG/images-1748228373446-removebg-preview.png",TLC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -416,6 +386,32 @@ http://starshare.org/live/kumar11/kumar11/180.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/tlc/drmLicense
 https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/qLMzdwdn/logo.png",SONY BBC HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/nNMrfXtd/images-1-removebg-preview.png",LOVE NATURE HD
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH HD
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
+https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8
+#https://newsprotalhub.xyz/tipyop/live.m3u8?id=52d1df2fdb80&e=.m3u8
+http://starshare.org/live/kumar11/kumar11/9391.ts
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL HD
+http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206285.ts
+http://starshare.org/live/kumar11/kumar11/7343.ts
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD HD
+http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206286.ts
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
+http://starshare.org/live/kumar11/kumar11/20622.ts
+#EXTM3U
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/8nDZSqx9/images-removebg-preview-1.png",HISTORY HD
+http://starshare.org/live/kumar11/kumar11/180.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/103689.ts
@@ -428,7 +424,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png" group-title="ISLAMICS", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/57.ts
+http://opplex.tv:8080/live/NATURE munir/shahidmunir123/57.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
@@ -438,9 +434,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUm
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
-#http://starshare.org/live/kumar11/kumar11/9384.ts
-#http://starshare.org/live/kumar11/kumar11/979.ts
+http://starshare.org/live/kumar11/kumar11/9384.ts
+http://starshare.org/live/kumar11/kumar11/979.ts
 #EXTM3U
