@@ -348,7 +348,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
-https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8
+#https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=euro_sports_hd&e=.m3u8
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167585.ts
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
@@ -413,6 +413,7 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206282.ts
 #https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8
 #http://starshare.org/live/kumar11/kumar11/9391.ts
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL HD
+http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245967.ts
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206285.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD HD
@@ -422,8 +423,8 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206286.ts
 http://starshare.org/live/kumar11/kumar11/20622.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
+http://opplex.tv:8080/live/shahidmunir/shahidmunir123/388633.ts
 #https://re.fredflix.fun/AOIT/live.php?id=hum_masala&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=hum_masala&e=.m3u8
-#http://opplex.tv:8080/live/Amjadsc/nwl1234/103689.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
