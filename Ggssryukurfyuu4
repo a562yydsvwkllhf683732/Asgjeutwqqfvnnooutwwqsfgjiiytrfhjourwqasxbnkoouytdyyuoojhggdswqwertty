@@ -316,6 +316,7 @@ https://epiconvh.akamaized.net/live/gubbare/master_480.m3u8
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
+http://103.175.242.10:8080/tsports1/index.m3u8
 http://38.96.178.201/live/TSports/index.m3u8
 #http://starshare.org/live/shiva123/shiva123/18452.ts
 #http://opplex.tv:8080/live/Amjadsc/nwl1234/167590.ts
