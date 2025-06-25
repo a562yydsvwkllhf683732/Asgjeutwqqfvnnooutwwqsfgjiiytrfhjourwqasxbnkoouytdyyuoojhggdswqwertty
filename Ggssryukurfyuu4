@@ -184,7 +184,13 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
-https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla-cinema/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
+#https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
