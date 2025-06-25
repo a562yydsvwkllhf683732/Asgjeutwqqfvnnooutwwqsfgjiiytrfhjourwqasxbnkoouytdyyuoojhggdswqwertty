@@ -134,12 +134,13 @@ https://mytvbangla.com/0.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="INDIABANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
+https://softbd24.com/new/toffee/live.php?id=106a66093e92&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=106a66093e92&e=.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla/drmLicense
-https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
+#https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="INDIABANGLA",ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -163,10 +164,12 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/26/master.m3u8|user-agent=Mozilla/5.0 
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
+https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
@@ -175,7 +178,8 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
-https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
 http://starshare.org/live/PROMO/PROMO/271038.ts
@@ -215,7 +219,7 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/WWrHZSxw/Sony-HD.png",SONY TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-#https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="INDIA"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
@@ -275,8 +279,8 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0
 #/153156.ts &/19834.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo-title="KIDS"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-#https://re.fredflix.fun/AOIT/live.php?id=sonyyay&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyyay&e=.m3u8
+https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
@@ -307,7 +311,6 @@ https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/238/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-#https://re.fredflix.fun/AOIT/live.php?id=cartoon_network_sd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=cartoon_network_sd&e=.m3u8
 #/150478.ts #https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="httss://i.ibb.co/GvXkx08L/images-removebg-preview.png",CARTOON HD +
@@ -340,8 +343,8 @@ http://38.96.178.201/live/TSports/index.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167569.ts
+https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
+#http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
@@ -452,16 +455,15 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8
 #/206283.ts #/206282.ts &/9391.ts
-#https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=animal_planet_hd&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/137/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL HD
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245967.ts
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206285.ts
+/206285.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/184/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
@@ -473,8 +475,8 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206286.ts
 http://starshare.org/live/kumar11/kumar11/20622.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/388633.ts
-#https://re.fredflix.fun/AOIT/live.php?id=hum_masala&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=hum_masala&e=.m3u8
+https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
+#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/388633.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
