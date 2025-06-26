@@ -459,9 +459,13 @@ https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/investigation-discovery/drmLicense
 https:/otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/qLMzdwdn/logo.png", SONY BBC HD
-https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/c7SnhXr/images-removebg-preview.png", EPIC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
+https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/nNMrfXtd/images-1-removebg-preview.png",LOVE NATURE HD
 https://softbd24.com/new/toffee/live.php?id=52d1df2fdb80&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=52d1df2fdb80&e=.m3u8
@@ -470,14 +474,6 @@ https://softbd24.com/new/toffee/live.php?id=52d1df2fdb80&e=.m3u8|Referer=https:/
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH HD
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/c7SnhXr/images-removebg-preview.png", EPIC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
-https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
