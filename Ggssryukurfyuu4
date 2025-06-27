@@ -157,7 +157,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="INDIABANGLA",ZEE BANGLA HD
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/522/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
 http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245898.ts
