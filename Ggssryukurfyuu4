@@ -178,7 +178,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/91.ts
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
@@ -321,8 +322,8 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0
 #/153156.ts &/19834.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-#https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
