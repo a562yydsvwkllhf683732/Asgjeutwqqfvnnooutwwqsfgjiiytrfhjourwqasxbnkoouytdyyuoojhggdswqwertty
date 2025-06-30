@@ -419,7 +419,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/DPZpvRCH/images-1-removebg-preview.png", INDIA TV NEWS
 https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="NEWS",ALJAZEERA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/ycHDwS8w/images-removebg-preview.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/6RrPxk1v/images-3-removebg-preview.png ", CNN NEWS
@@ -497,7 +497,7 @@ https://softbd24.com/new/toffee/live.php?id=52d1df2fdb80&e=.m3u8|Referer=https:/
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH HD
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/HTdQq8Gf/images-removebg-preview-1.png", ANIMAL PLANET HD
 https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/206283.ts #/206282.ts &/9391.ts
 #EXTM3U
