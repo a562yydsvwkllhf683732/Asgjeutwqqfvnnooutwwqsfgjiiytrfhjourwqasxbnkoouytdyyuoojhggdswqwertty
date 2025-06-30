@@ -512,17 +512,19 @@ https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https:/
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/206283.ts #/206282.ts &/9391.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
+http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/137/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-reUovebg-preview.png",NATIONAL HD
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245967.ts
-/206285.ts
+#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245967.ts
+#/206285.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
+http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/184/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD HD
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206286.ts
+#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/206286.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
 http://starshare.org/live/kumar11/kumar11/20622.ts
