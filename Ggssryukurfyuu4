@@ -313,7 +313,7 @@ http://opplex.tv:8080/live/shahidmunir/shahidmunir123/34011.ts
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #/153156.ts &/19834.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo-title="KIDS"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8
 #EXTM3U
