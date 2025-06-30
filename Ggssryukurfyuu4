@@ -75,7 +75,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/0VKhzMRf/images-4-removebg-preview.png", ClHANNEL 9
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/0VKhzMRf/images-4-removebg-preview.png", ClHANNEL 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTM3U
@@ -521,22 +521,22 @@ http://starshare.org/live/kumar11/kumar11/20622.ts
 https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
 #http://opplex.tv:8080/live/shahidmunir/shahidmunir123/388633.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
+#EXTINF:-1 group-title="ISLAMICS" tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #/4.ts #/353547.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png" group-title="ISLAMICS", AL SUNNAH TV
+#EXTINF:-1 group-title="ISLAMICS" tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 http://opplex.tv:8080/live/NATURE munir/shahidmunir123/57.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
+#EXTINF:-1 group-title="ISLAMICS" tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
 http://starshare.org/live/kumar11/kumar11/9384.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B2jg2D15/images-8-removebg-preview.png",MOTU-PATLU 1 /307079.ts
