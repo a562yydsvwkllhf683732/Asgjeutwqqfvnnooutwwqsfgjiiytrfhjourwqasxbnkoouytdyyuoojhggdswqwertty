@@ -206,7 +206,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts
+http://tv.bdiptv.store/live/restream/restreamkk/81.ts
+#/245900.ts #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/2Yn94h3n/images-removebg-preview.png", STAR PLUS HD
 http://tv.bdiptv.store/live/restream/restreamkk/53.ts
@@ -268,7 +269,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/92.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/66199.ts
+http://tv.bdiptv.store/live/restream/restreamkk/239.ts 
+#/66199.ts
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/QFxBhXjc/images-2-removebg-preview.png ", BHOJPURI  CINEMA
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -369,21 +371,20 @@ https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https:/
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167573.ts
+http://tv.bdiptv.store/live/restream/restreamkk/89.ts
+#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167573.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SPORTS 2 HD 
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/235/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167574.ts
+http://tv.bdiptv.store/live/restream/restreamkk/90.ts
+#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/235/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167574.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167578.ts
-&/9400.ts
+http://tv.bdiptv.store/live/restream/restreamkk/88.ts
+#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167578.ts &/9400.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/167579.ts
-#http://starshare.org/live/shiva123/shiva123/9401.ts
+http://tv.bdiptv.store/live/restream/restreamkk/15246.ts
+#/167579.ts &/9401.ts
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
@@ -438,9 +439,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/98.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 #https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
-#EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/35YBRv5r/images-removebg-preview.png",DISCOVERY HD
-https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8
+#https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/341/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/206287.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/Z6XHygCG/images-1748228373446-removebg-preview.png",TLC
@@ -528,6 +527,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
-http://starshare.org/live/kumar11/kumar11/9384.ts
+http://tv.bdiptv.store/live/restream/restreamkk/95.ts
+#http://starshare.org/live/kumar11/kumar11/9384.ts
 #EXTM3U
 
