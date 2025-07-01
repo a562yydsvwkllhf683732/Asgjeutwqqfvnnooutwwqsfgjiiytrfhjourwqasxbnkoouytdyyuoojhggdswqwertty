@@ -163,8 +163,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/52.ts
 #/388693.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245898.ts
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 &/23218.ts /198.ts
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#/245898.ts &/23218.ts /198.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restream/restreamkk/91.ts
@@ -301,16 +301,16 @@ http://tv.bdiptv.store/live/restream/restreamkk/96.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/138/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150482.ts &/205.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qM5zyVXC/Nick-HD.png",NICK HD ±
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/433/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/76722.ts
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/433/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#/76722.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
 http://tv.bdiptv.store/live/restream/restreamkk/242.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/127/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/34011.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
-http://opplex.tv:8080/live/shahidmunir/shahidmunir123/153156.ts 
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 &/19834.ts
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#/153156.ts &/19834.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
 #https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -319,8 +319,8 @@ https://softbd24.com/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https:/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",SUPER HUNGAMA
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tMFV5JyW/images-removebg-preview-1.png",SUPER HUNGAMA
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5xft6LVW/images-3-removebg-preview-1.png",DISNEP CHANNEL
 http://tv.bdiptv.store/live/restream/restreamkk/71.ts
