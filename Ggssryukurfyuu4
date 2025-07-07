@@ -166,17 +166,17 @@ https://mytvbangla.com/0.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
 http://tv.bdiptv.store/live/restreax/refstream/52.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #/245898.tshttp://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
 http://tv.bdiptv.store/live/restreax/refstream/15252.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="74" group-title="KOLKATA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
+#EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
 https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 #http://kst.moonplex.net:8080/CH4/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -192,27 +192,35 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
 https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/whxC4Yx8/images.jpg",DD BANGLA
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
 https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="KOLKATA" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
+#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 #https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/fVfcx1Gb/images-1-removebg-preview.png",COLORS BANGLA 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/fVfcx1Gb/images-1-removebg-preview.png",COLORS BANGLA 
 http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/v4MC48R0/images-5-removebg-preview.png",ENTER 10 BANGLA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/v4MC48R0/images-5-removebg-preview.png",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -222,11 +230,11 @@ https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
 #https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=3a4a0ceff620&e=.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
 http://tv.bdiptv.store/live/restreax/refstream/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
 https://bdix.xfireflix.fun/stream.m3u8?id=323035
 #http://tv.bdiptv.store/live/restreax/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
@@ -360,8 +368,7 @@ http://tv.bdiptv.store/live/restreax/refstream/71.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
 #EXTM3U 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/vCpt5K0T/images-1-removebg-preview-1.png",KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
