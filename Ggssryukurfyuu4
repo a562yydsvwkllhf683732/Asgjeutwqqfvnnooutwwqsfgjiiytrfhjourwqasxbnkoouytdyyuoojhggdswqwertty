@@ -166,6 +166,9 @@ https://mytvbangla.com/0.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
+http://tv.bdiptv.store/live/restreax/refstream/15252.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
 https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 #http://kst.moonplex.net:8080/CH4/index.m3u8
@@ -182,9 +185,9 @@ http://tv.bdiptv.store/live/restreax/refstream/52.ts
 #/388693.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
-http://kst.moonplex.net:8080/CH3/index.m3u8
-#http://opplex.tv:8080/live/shahidmunir/shahidmunir123/245898.ts
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://bdix.xfireflix.fun/stream.m3u8?id=323036
+#http://kst.moonplex.net:8080/CH3/index.m3u8
+#/245898.ts #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restreax/refstream/91.ts
