@@ -206,6 +206,9 @@ https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 #https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/fVfcx1Gb/images-1-removebg-preview.png",COLORS BANGLA 
+http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/v4MC48R0/images-5-removebg-preview.png",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
