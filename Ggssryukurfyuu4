@@ -169,6 +169,10 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
 http://tv.bdiptv.store/live/restreax/refstream/52.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#/245898.tshttp://kst.moonplex.net:8080/CH3/index.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
 http://tv.bdiptv.store/live/restreax/refstream/15252.m3u8
 #EXTM3U
