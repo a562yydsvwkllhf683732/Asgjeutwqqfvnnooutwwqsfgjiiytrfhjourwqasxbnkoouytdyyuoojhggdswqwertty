@@ -190,7 +190,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+#https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
 https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
@@ -199,7 +199,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/whxC4Yx8/images.jpg",DD BANGLA
@@ -289,7 +289,7 @@ https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/B21fnpw3/images-2-removebg-preview.png",SONY MAX 1
-#https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+http://filex.me:8080/4585/4585/512328
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Nnmcpf2K/images-removebg-preview-2.png",ZEE CINEMA HD
 https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
