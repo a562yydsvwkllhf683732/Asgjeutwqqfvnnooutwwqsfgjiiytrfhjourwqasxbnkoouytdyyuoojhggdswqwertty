@@ -231,7 +231,8 @@ http://tv.bdiptv.store/live/restreax/refstream/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
-http://tv.bdiptv.store/live/restreax/refstream/81.ts
+https://bdix.xfireflix.fun/stream.m3u8?id=323035
+#http://tv.bdiptv.store/live/restreax/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/2Yn94h3n/images-removebg-preview.png", STAR PLUS HD
@@ -331,8 +332,9 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
 http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
+https://bdix.xfireflix.fun/stream.m3u8?id=323033
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/138/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
-http://tv.bdiptv.store/live/restreax/refstream/96.ts
+#http://tv.bdiptv.store/live/restreax/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qM5zyVXC/Nick-HD.png",NICK HD ±
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/433/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
@@ -396,7 +398,8 @@ https://epiconvh.akamaized.net/live/gubbare/master_480.m3u8
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
-http://kst.moonplex.net:8080/CH2/index.m3u8
+https://bdix.xfireflix.fun/stream.m3u8?id=3536
+#http://kst.moonplex.net:8080/CH2/index.m3u8
 #http://starshare.org/live/kumar11/kumar11/18452.ts
 #http://38.96.178.201/live/TSports/index.m3u8#/167590.ts
 #EXTM3U
