@@ -180,14 +180,13 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://
 #https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/522/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://tv.bdiptv.store/live/restreax/refstream/52.ts
-#/388693.ts
-#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 https://bdix.xfireflix.fun/stream.m3u8?id=323036
 #http://kst.moonplex.net:8080/CH3/index.m3u8
 #/245898.ts #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#EXTM3U
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/VYdN72xk/channels4-profile-removebg-preview.png",STAR JALSHA 
+http://tv.bdiptv.store/live/restreax/refstream/52.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restreax/refstream/91.ts
