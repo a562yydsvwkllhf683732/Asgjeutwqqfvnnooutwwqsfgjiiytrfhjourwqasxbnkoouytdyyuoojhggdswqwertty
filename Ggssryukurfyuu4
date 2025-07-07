@@ -193,7 +193,7 @@ http://tv.bdiptv.store/live/restreax/refstream/91.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
